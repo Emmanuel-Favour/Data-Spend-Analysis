@@ -2,8 +2,8 @@
 
 ## Is my daily data package worth the spend?
 *Case study:* This year, I have resulted to buying daily data plans(2 days for 2.5gb.) from MTN ( A network service provider in Nigeria) due to the expiration of my double data package which I got as an incentive for buying a new sim card. 
-Before the expiration of the double data package, I would normally go for a #3500 GB for 12gb (A 1 month plan) after which the data will be doubled to 24gb. Now I consider the 12 gb data insufficient by my instinct and this has resulted 
-into me going for the 2days plan #600 for 2.5 gb. after checking my bank statement I realized my monthly spend in data has risen recently, I have purchased more 2.5gb's than usual. Now, I have decided to use every available data to understand 
+Before the expiration of the double data package, I would normally go for a  ₦3500 GB for 12gb (A 1 month plan) after which the data will be doubled to 24gb. Now I consider the 12 gb data insufficient by my instinct and this has resulted 
+into me going for the 2days plan  ₦600 for 2.5 gb. after checking my bank statement I realized my monthly spend in data has risen recently, I have purchased more 2.5gb's than usual. Now, I have decided to use every available data to understand 
 my mobile data spend and usage behavior so as to be able to make informed decision.
 
 Alt-H1
